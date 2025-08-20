@@ -6,11 +6,9 @@ Este projeto é um clone simplificado do site Promobit, desenvolvido em Java com
 - Listagem de promoções
 - Cadastro de novas promoções
 - Busca de produtos
-- Interface simples para interação com o usuário
 
 ## Tecnologias utilizadas
 - Java
-- (adicione aqui: Swing, JavaFX, JDBC, HTML/CSS, dependendo do que usou)
 
 ## Como executar
 1. Clone este repositório
